@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Police Stations",
+    "ace_perm": "nil",
+    "locations": [
+      {
+        "name": "U.S Marshal HQ",
+        "desc": "Lobby, Meeting Room, Press Conferance, Offices, Garage, Gym, Cells, Toilets.",
+        "coords": {
+          "spawn": {
+            "x": -835.25,
+            "y": -694.38,
+            "z": 27.31,
+            "w": 268.05
+          },
+          "marker": {
+            "x": -835.25,
+            "y": -694.38,
+            "z": 27.31,
+            "w": 268.05
+          },
+          "blip": {
+            "x": -835.25,
+            "y": -694.38,
+            "z": 27.31,
+            "w": 268.05
+          },
+          "camera": {
+            "x": -835.25,
+            "y": -694.38,
+            "z": 27.31,
+            "w": 268.05
+          }
+        },
+        "icon": "fa-building-shield",
+        "ace_perm": "nil"
+      }
+    ]
+  },
+  {
+    "name": "Hospitals",
+    "ace_perm": "nil",
+    "locations": []
+  },
+  {
+    "name": "Fire Departments",
+    "ace_perm": "nil",
+    "locations": []
+  },
+  {
+    "name": "Misc",
+    "ace_perm": "nil",
+    "locations": []
+  }
+]
